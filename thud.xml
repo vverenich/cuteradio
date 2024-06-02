@@ -3,7 +3,7 @@
 
     <remote name="oe" fetch="git://git.openembedded.org"/>
     <remote name="yocto" fetch="git://git.yoctoproject.org"/>
-    <remote name="raspberrypi" fetch="https://git.yoctoproject.org/cgit/cgit.cgi"/>
+    <remote name="raspberrypi" fetch="https://git.yoctoproject.org/"/>
     <remote name="qt" fetch="https://github.com/meta-qt5/"/>
     <remote name="cuteradio" fetch="https://github.com/bstubert"/>
 
