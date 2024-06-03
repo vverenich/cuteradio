@@ -5,7 +5,7 @@
     <remote name="yocto" fetch="git://git.yoctoproject.org"/>
     <remote name="raspberrypi" fetch="https://git.yoctoproject.org/"/>
     <remote name="qt" fetch="https://github.com/meta-qt5/"/>
-    <remote name="cuteradio" fetch="https://github.com/bstubert"/>
+    <remote name="cuteradio" fetch="https://github.com/vverenich"/>
 
     <project name="meta-openembedded"
         remote="oe"
